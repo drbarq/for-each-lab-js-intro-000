@@ -17,7 +17,7 @@ Call `.forEach()` on this array, passing the callback to `.forEach()`. Then retu
 */
 
 function iterate(callback) {
-  var array = ['cat', 'dog', 'fish']
+  var arrayTwo = ['cat', 'dog', 'fish']
   array.forEach(callback) => {
     console.log(array)}
   }
