@@ -6,3 +6,4 @@ function iterativeLog(array) {
     array.foreach(element => {
     console.log(element)});
 }
+
