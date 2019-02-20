@@ -4,7 +4,7 @@
 
 function iterativeLog(array) {
     debugger;
-    array.forEach(element, index) => {
+    array.forEach(element, index) { function  {
     console.log(`${index}:${element}`)};
-
+}
 }
