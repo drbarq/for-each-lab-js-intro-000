@@ -4,7 +4,7 @@
 
 function iterativeLog(array) {
     debugger;
-    array.foEeach(array => {
+    array.foEeach(element => {
     console.log(`${element}`)});
 
 }
