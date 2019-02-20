@@ -15,8 +15,11 @@ Within the `iterate()` function, you should initialize an array. It can contain 
 Call `.forEach()` on this array, passing the callback to `.forEach()`. Then return the array that you initialized.
 
 */
+
+/*
 function iterate(callback) {
   var arrayTwo = ['cat', 'dog', 'fish']
   arrayTwo.forEach(callback) => {
     console.log(arrayTwo)}
   }
+*/
